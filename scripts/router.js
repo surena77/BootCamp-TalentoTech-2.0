@@ -5,6 +5,9 @@ const routes = {
   contact: {
     path: "contact",
   },
+  ptos: {
+    path: "ptos",
+  },
 };
 
 export function loadRoute() {
