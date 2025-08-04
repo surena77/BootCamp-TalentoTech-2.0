@@ -8,6 +8,9 @@ const routes = {
   ptos: {
     path: "ptos",
   },
+  bibliografia: {
+    path: "bibliografia",
+  },
 };
 
 export function loadRoute() {
