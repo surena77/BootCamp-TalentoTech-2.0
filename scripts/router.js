@@ -2,14 +2,17 @@ const routes = {
   home: {
     path: "home",
   },
-  contact: {
-    path: "contact",
+  anonimo: {
+    path: "anonimo",
   },
-  ptos: {
-    path: "ptos",
+  bloque12: {
+    path: "bloque12",
   },
-  bibliografia: {
-    path: "bibliografia",
+  about: {
+    path: "about",
+  },
+  nosotros: {
+    path: "nosotros",
   },
 };
 
